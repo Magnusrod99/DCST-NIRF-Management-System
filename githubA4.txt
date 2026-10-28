@@ -1,0 +1,10 @@
+
+Assignment 4 - More Features of OOP
+
+Project Title: DCST NIRF Information Management System
+
+Student Name: Magnus Rodrigues
+Roll Number: 2628
+
+GitHub Repository:
+https://github.com/Magnusrod99/DCST-NIRF-Management-System.git
